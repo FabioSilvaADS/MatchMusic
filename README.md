@@ -17,6 +17,8 @@ Thamyres Rodrigues
 
 # História de usuário
 - **Como um** usuário, **eu quero** poder me cadastrar **para que** seja possível utilizar a aplicação.
+- **Como um** usuário, **eu quero** poder editar meu perfil **para que** seja possível atualizar meus dados dentro da aplicação.
+- **Como um** usuário, **eu quero** poder deletar minha conta **para que** seja possível remover meu perfil da aplicação.
 - **Como um** usuário(logado), **eu quero** receber indicações de músicas **para que** dessa forma eu possa me inteirar sobre as últimas novidades musicais.
 - **Como um** usuário(logado), **eu quero** seguir outros usuários **para que** dessa forma eu possa interagir dentro da aplicação.
 - **Como um** usuário(logado), **eu quero** poder compartilhar músicas com minha lista de seguidores para que exibir minhas preferências musicais.
