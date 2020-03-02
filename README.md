@@ -16,7 +16,12 @@ Na aplicação o usuário deve se cadastrar criando um perfil e através do perf
 Thamyres Rodrigues 
 
 # História de usuário
-Como um usuário eu quero receber indicações de músicas, poder compartilhá-las com meus amigos, além de conhecer novos usuários que possuem o mesmo interesse musical que o meu para que dessa forma eu possa explorar e me inteirar sobre as últimas novidades musicais.
+- **Como um** usuário, **eu quero** poder me cadastrar **para que** seja possível utilizar a aplicação.
+- **Como um** usuário(logado), **eu quero** receber indicações de músicas **para que** dessa forma eu possa inteirar sobre as últimas novidades musicais.
+- **Como um** usuário(logado), **eu quero** seguir outros usuários **para que** dessa forma eu possa interagir dentro da aplicação.
+- **Como um** usuário(logado), **eu quero** poder compartilhar músicas com minha lista de seguidores para que exibir minhas preferências musicais.
+- **Como um** usuário(logado), **eu quero** poder dar match em outros perfis **para que** dessa forma eu possa interagir com outros usuários.
+- **Como um** usuário(logado), **eu quero** poder interagir por chat de texto com outros usuários **para que** dessa forma eu possa conhecer novos usuários.
 
 # Product Backlog
 1. Cadastrar usuário
