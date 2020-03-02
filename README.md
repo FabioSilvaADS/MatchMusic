@@ -21,7 +21,7 @@ Thamyres Rodrigues
 - **Como um** usuário(logado), **eu quero** seguir outros usuários **para que** dessa forma eu possa interagir dentro da aplicação.
 - **Como um** usuário(logado), **eu quero** poder compartilhar músicas com minha lista de seguidores para que exibir minhas preferências musicais.
 - **Como um** usuário(logado), **eu quero** poder dar match em outros perfis **para que** dessa forma eu possa interagir com outros usuários.
-- **Como um** usuário(logado), **eu quero** poder interagir por chat de texto **para que** dessa forma eu possa conhecer novas pessoas.
+- **Como um** usuário(logado) e com match, **eu quero** poder interagir por chat de texto **para que** dessa forma eu possa conhecer novas pessoas.
 
 # Product Backlog
 1. Cadastrar usuário
