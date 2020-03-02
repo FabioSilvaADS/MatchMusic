@@ -20,8 +20,8 @@ Como um usuário eu quero receber indicações de músicas, poder compartilhá-l
 
 # Product Backlog
 1. Cadastrar usuário
-2. Indicação de músicas
-3. Compartilhamento de músicas
-4. Match de perfis
+2. Indicação semanal de músicas
+3. Compartilhamento de músicas com a lista de seguidores
+4. Match de perfis cadastrados no aplicativo
 5. Interação via chat de texto
 6. Sistema sugere perfis similares de acordo com gênero musical 
